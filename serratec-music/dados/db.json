@@ -1,0 +1,98 @@
+{
+  "musicas": [
+    {
+      "id": 1,
+      "artista": "Gusttavo Lima",
+      "titulo": "Bloqueado",
+      "foto": "https://i.ytimg.com/vi/14C28JSO-sg/maxresdefault.jpg",
+      "genero": "Sertanejo",
+      "execucao": 0
+    },
+    {
+      "id": 2,
+      "artista": "Dua Lipa",
+      "titulo": "One Kiss",
+      "foto": "https://i.ytimg.com/vi/DkeiKbqa02g/maxresdefault.jpg",
+      "genero": "Pop",
+      "execucao": 0
+    },
+    {
+      "id": 3,
+      "artista": "Thiaguinho",
+      "titulo": "Falta Você",
+      "foto": "https://cdns-images.dzcdn.net/images/cover/05c14f403dcab6bdb8fc4a7457450109/500x500.jpg",
+      "genero": "Pagode",
+      "execucao": 0
+    },
+    {
+      "id": 4,
+      "artista": "Coldplay",
+      "titulo": "Paradise",
+      "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Coldplay_-_Paradise.JPG",
+      "genero": "Rock",
+      "execucao": 0
+    },
+    {
+      "id": 5,
+      "artista": "Demi Lovato",
+      "titulo": "Confident",
+      "foto": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/7a/Capa_de_Confident.png/220px-Capa_de_Confident.png",
+      "genero": "Pop",
+      "execucao": 0
+    },
+    {
+      "id": 6,
+      "artista": "Jota Quest",
+      "titulo": "Dias Melhores",
+      "foto": "https://i.ytimg.com/vi/qaAg4ebqHb8/maxresdefault.jpg",
+      "genero": "Rock",
+      "execucao": 0
+    },
+    {
+      "id": 7,
+      "artista": "Queen",
+      "titulo": "Bohemian Rhapsody",
+      "foto": "https://m.media-amazon.com/images/I/61dk4SHy1CL._AC_SY450_.jpg",
+      "genero": "Rock",
+      "execucao": 0
+    },
+    {
+      "id": 8,
+      "artista": "Marília Mendonça",
+      "titulo": "Infiel",
+      "foto": "https://i.ytimg.com/vi/eCyMh-mZ1B0/maxresdefault.jpg",
+      "genero": "Sertanejo",
+      "execucao": 0
+    },
+    {
+      "id": 9,
+      "artista": "BTS",
+      "titulo": "Dynamite",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/61rluzFkToL.jpg",
+      "genero": "Pop",
+      "execucao": 0
+    },
+    {
+      "id": 10,
+      "artista": "Os Arrais",
+      "titulo": "17 de Janeiro",
+      "foto": "https://i.ytimg.com/vi/5zBo1D8dOC8/maxresdefault.jpg",
+      "genero": "Gospel",
+      "execucao": 0
+    },
+    {
+      "artista": "Barões da Pisadinha",
+      "titulo": "Recairei",
+      "foto": "https://i.ytimg.com/vi/bKnB-0fSwDA/maxresdefault.jpg",
+      "genero": "Arrocha",
+      "id": 11
+    },
+    {
+      "artista": "Barões da Pisadinha",
+      "titulo": "Tá Rocheda",
+      "foto": "https://i.ytimg.com/vi/bKnB-0fSwDA/maxresdefault.jpg",
+      "genero": "Arrocha",
+      "id": 12
+    }
+  ]
+}
